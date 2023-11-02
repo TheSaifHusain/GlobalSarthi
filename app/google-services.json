@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "23983782433",
+    "project_id": "emm-provider-97efe",
+    "storage_bucket": "emm-provider-97efe.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:23983782433:android:ee7ebca3a52ad66960c160",
+        "android_client_info": {
+          "package_name": "com.global.sarthi"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA5gAK1TrP8Uswkl34-bgGGqHzq1kiLz-4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:23983782433:android:692af30844e2027a60c160",
+        "android_client_info": {
+          "package_name": "com.softkites.emm"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA5gAK1TrP8Uswkl34-bgGGqHzq1kiLz-4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
